@@ -5,7 +5,7 @@ import Link from "next/link";
 import Menu from "./Menu";
 import MenuMobile from "./MenuMobile";
 
-import { IoMdHeartEmpty } from "react-icons/io";
+/*import { IoMdHeartEmpty } from "react-icons/io";*/
 import { BsCart } from "react-icons/bs";
 import { BiMenuAltRight } from "react-icons/bi";
 import { VscChromeClose } from "react-icons/vsc";
@@ -56,7 +56,7 @@ const Header = () => {
         >
             <Wrapper className="h-[60px] flex justify-between items-center">
                 <Link href="/">
-                    <img src="/logo.svg" className="w-[40px] md:w-[60px]" />
+                    <img src="/logo1.png" className="w-[40px] md:w-[60px]" />
                 </Link>
 
                 <Menu

@@ -89,8 +89,7 @@ const ProductDetails = ({ product, products }) => {
                                 <div className="text-md font-semibold">
                                     Select Size
                                 </div>
-                                <div className="text-md font-medium text-black/[0.5] cursor-pointer">
-                                    Select Guide
+                               <div className="text-md font-medium text-black/[0.5] cursor-pointer">
                                 </div>
                             </div>
                             {/* HEADING END */}
@@ -161,7 +160,7 @@ const ProductDetails = ({ product, products }) => {
                         </button>
                         {/* ADD TO CART BUTTON END */}
 
-                        {/* WHISHLIST BUTTON START */}
+                        {/* WHISHLIST BUTTON START
                         <button className="w-full py-4 rounded-full border border-black text-lg font-medium transition-transform active:scale-95 flex items-center justify-center gap-2 hover:opacity-75 mb-10">
                             Whishlist
                             <IoMdHeartEmpty size={20} />
