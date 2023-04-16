@@ -117,7 +117,7 @@ const Cart = () => {
                         <span className="text-center mt-4">
                             Looks like you have not added anything in your cart.
                             <br />
-                            Go ahead and explore top categories.
+                            Explore our top ordered categories
                         </span>
                         <Link
                             href="/"

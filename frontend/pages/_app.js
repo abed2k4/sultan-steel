@@ -14,7 +14,7 @@ export default function App({ Component, pageProps }) {
                 <title>Sultan Steel | Trading</title>
                 <meta
                     name="description"
-                    content="Sultan Steel trading reference website"
+                    content="Sultan Steel trading website"
                 />
                 <meta
                     name="viewport"
